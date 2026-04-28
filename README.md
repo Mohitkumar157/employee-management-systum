@@ -44,7 +44,10 @@ src/
 
 ## 📸 Screenshots  
 
-(Add screenshots here later)
+<img width="1324" height="672" alt="image" src="https://github.com/user-attachments/assets/ddc14591-f3b5-4ab0-a111-018e6432de39" />
+<img width="602" height="562" alt="image" src="https://github.com/user-attachments/assets/7cb6b3b6-b1b5-4936-8249-968c05569a52" />
+<img width="1321" height="672" alt="image" src="https://github.com/user-attachments/assets/03f38a52-1b9f-402a-aa54-d95e42e5e9fa" />
+
 
 ---
 
