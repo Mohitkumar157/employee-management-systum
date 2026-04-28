@@ -1,16 +1,70 @@
-# React + Vite
+# 👨‍💼 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based employee management system that allows admins and employees to manage tasks efficiently with role-based access.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo  
+👉 https://employee-management-systum.vercel.app  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+- 🔐 Login system for authentication  
+- 👨‍💼 Role-based access (Admin & Employee)  
+- 📋 Task management system  
+- ✅ Employees can mark tasks as Completed or Failed  
+- 📊 Dashboard for tracking tasks  
+- ⚡ Fast and responsive UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack  
+
+- React  
+- Tailwind CSS  
+- Context API  
+- LocalStorage  
+
+---
+
+## 📁 Folder Structure  
+
+src/
+ ├── components/
+ ├── context/
+ ├── features/
+ ├── hooks/
+ ├── services/
+ ├── tasks/
+ └── assets/
+
+---
+
+## 📸 Screenshots  
+
+(Add screenshots here later)
+
+---
+
+## 🔮 Future Improvements  
+
+- Backend integration ( MongoDB)  
+- Better authentication system  
+- API-based data handling  
+
+---
+
+## ⚙️ Installation  
+
+git clone https://github.com/Mohitkumar157/employee-management-systum.git  
+cd employee-management-systum  
+npm install  
+npm run dev  
+
+---
+
+## 💡 Author  
+
+Mohit Kumar
